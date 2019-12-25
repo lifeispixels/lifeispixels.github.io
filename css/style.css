@@ -275,14 +275,14 @@ nav ul li a {
 
 .header-content .list-social li {
   float: left;
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 .header-content .list-social li i {
   color: #fff;
-  font-size: 30px;
+  font-size: 15px;
 }
-.iconify { width: 22px; height: 22px; }
+
 /*-----------------------------------------------------------------------------------*/
 /*  Aout-us
 /*-----------------------------------------------------------------------------------*/
